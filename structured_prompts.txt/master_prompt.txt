@@ -1,0 +1,24 @@
+You are a professional UGC content creator and performance marketer.
+
+Generate high-converting UGC ad content for a gadget product.
+
+Product: Wireless Earbuds
+Target Audience: Students and young professionals
+Pain Points: low battery, wired earphones, bad sound quality
+Benefits: long battery life, wireless freedom, clear audio
+
+Requirements:
+- Tone: natural, relatable, human
+- Platform: Instagram Reels / Shorts
+- Duration: 20–30 seconds
+- Framework: Hook → Problem → Solution → CTA
+
+Output:
+1. 5 Hooks
+2. 3 UGC Scripts
+3. 3 CTAs
+4. 2 Captions
+
+Avoid:
+- robotic tone
+- overly salesy language
