@@ -1,0 +1,49 @@
+Brand Brief:
+Product: Wireless Earbuds  
+Audience: Students  
+Pain: low battery, wired earphones  
+Benefits: long battery, wireless, clear audio  
+
+---
+
+Act as a UGC creative strategist.
+
+Rewrite the same ad in 3 completely different angles:
+
+---
+
+1. RELATABLE MOMENT
+- Focus on a real-life situation (college, travel, calls)
+- Make it feel like “this happens to me”
+
+---
+
+2. PROBLEM INTENSIFIED
+- Make the pain point feel worse and urgent
+- Then show the product as the relief
+
+---
+
+3. ASPIRATIONAL / UPGRADE
+- Show how life feels better after using it
+- Focus on lifestyle improvement
+
+---
+
+Rules:
+- Keep same core message
+- Change tone, flow, and storytelling
+- Sound natural, not like ads
+
+---
+
+Output Format:
+
+[Relatable]  
+Script:  
+
+[Problem]  
+Script:  
+
+[Aspirational]  
+Script:
